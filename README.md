@@ -1,4 +1,4 @@
-# Raspberrypi-IP-address-for-headless-display
+# Raspberrypi-IP-address-for-headless-mode
 This is a simple program that will display the IP address of the RaspberryPi on a OLED screen.
 
 1) Initially, compile this program on your Pi when it is connected to a display. Keep the executable in a known location.
